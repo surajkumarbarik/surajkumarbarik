@@ -2,7 +2,7 @@
 - 👀 This is PYTHONic Nature
 - 🌱 14th FEB, 1999
 - 💞️ CODE is FOOD and CODE is MOOD
-- 📫 LET'S CODE THE WORLD...
+- 📫 LET'S D'CODE THE WORLD...
 - :-) 55 56 48 57 50 52 50 55 54 55
 
 <!---
